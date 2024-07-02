@@ -51,3 +51,23 @@ color: var(--slate);}
 .header-address-link:hover, 
 .header-address-link:focus {color: #4d5ae5;}
 
+.button { background-color: #2E2F42;}
+
+.button-title {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 107%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: var(--white);}
+
+.button-click {
+background-color: #4D5AE5;
+border-radius: 4px;
+    padding: 16px 32px;
+    width: 169px;
+    height: 56px;
+    color: #FFFFFF
+}
+.button-click:hover, .button-click:focus {color: #e90f34;}
