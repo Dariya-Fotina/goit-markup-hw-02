@@ -51,10 +51,11 @@ color: var(--slate);}
 .header-address-link:hover, 
 .header-address-link:focus {color: #4d5ae5;}
 
+/*---Секція з кнопкою---*/
+
 .button { background-color: #2E2F42;}
 
 .button-title {
-    font-family: var(--font-family);
     font-weight: 700;
     font-size: 56px;
     line-height: 107%;
@@ -71,3 +72,15 @@ border-radius: 4px;
     color: #FFFFFF
 }
 .button-click:hover, .button-click:focus {color: #e90f34;}
+
+/*--Розділи переваги--*/
+
+.features {}
+
+.features-list {}
+
+.features-item {}
+
+.features-subtitle {}
+
+.features-text {}
