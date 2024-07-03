@@ -154,3 +154,74 @@ color: #FFFFFF
         color: #434455;
 }
 
+/*---------- ----------*/
+
+/*--Portfolio--*/
+
+.portfolio {}
+
+.portfolio-title {
+    font-size: 36px;
+        line-height: 111%;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2E2F42;
+}
+
+.portfolio-list {}
+
+.portfolio-list-item {}
+
+.portfolio-images {}
+
+.portfolio-subtitle {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 120%;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.portfolio-text {
+    font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color:#434455;
+}
+/*----------- -----------*/
+
+
+/*--Footer--*/
+
+.footer {
+    background-color: #2E2F42;
+}
+
+.footer-logo{
+    width: 115px;
+        height: 24px;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 117%;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4D5AE5;
+}
+
+.footer-logo-color{
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 117%;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #F4F4FD;
+}
+
+.footer-text {
+    font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #F4F4FD;
+}
+
+/*----------- -----------*/
