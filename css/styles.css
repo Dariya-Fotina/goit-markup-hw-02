@@ -50,21 +50,21 @@ letter-spacing: 0.02em;
 color: #2E2F42;
 }
                
+.contacts{
+    font-style: normal;}
 
-
-.header-address-link{
+.header-contacts-link{
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 color: #434455;
-font-style: normal;
 }
 
 .header-menu-link:hover,
 .header-menu-link:focus,
-.header-address-link:hover, 
-.header-address-link:focus {color: #404BBF;}
+.header-contacts-link:hover, 
+.header-contacts-link:focus {color: #404BBF;}
 
 /*---------- ----------*/
 
@@ -72,15 +72,16 @@ font-style: normal;
 
 /*---Секція з кнопкою---*/
 
-.button { background-color: #2E2F42;
+.button {
+    background-color: #2E2F42;
 font-family: inherit;
 }
 
 .button-title {
-font-weight: 700;
+font-weight: 500;
 font-size: 56px;
-line-height: 107%;
-letter-spacing: 0.02em;
+line-height: 1,5;
+letter-spacing: 0.04em;
 text-align: center;
 color: #FFFFFF;}
 
@@ -127,13 +128,14 @@ cursor: pointer;
 
 
 
-/*--Foto--*/
+/*--3-Foto--*/
 
 .team {
     background-color: #F4F4FD;
 }
 
 .team-title {
+    text-transform: capitalize;
     font-size: 36px;
         line-height: 111%;
         letter-spacing: 0.02em;
@@ -141,9 +143,11 @@ cursor: pointer;
         color: #2E2F42;
 }
 
-.team-list {}
+.team-list{}
 
-.team-list-item {}
+.team-list-item {
+    background-color: #FFFFFF;
+}
 
 .team-images {}
 
@@ -166,11 +170,12 @@ cursor: pointer;
 
 /*---------- ----------*/
 
-/*--Portfolio--*/
+/*--4-Portfolio--*/
 
 .portfolio {}
 
 .portfolio-title {
+    text-transform: capitalize;
     font-size: 36px;
         line-height: 111%;
         letter-spacing: 0.02em;
