@@ -9,12 +9,8 @@ ul{list-style-type: none;}
 a{text-decoration: none;}
 
 .visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
     margin: -1px;
     border: 0;
-    padding: 0;
     white-space: nowrap;
     overflow: hidden;
 }
@@ -88,10 +84,6 @@ background-color: #4D5AE5;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.04em;
-border-radius: 4px;
-padding: 16px 32px;
-width: 169px;
-height: 56px;
 color: #FFFFFF;
 cursor: pointer;
 }
@@ -215,8 +207,6 @@ cursor: pointer;
 
 .footer-logo{
     font-family: "Raleway", sans-serif;
-    width: 115px;
-        height: 24px;
         font-weight: 700;
         font-size: 18px;
         line-height: 117%;
