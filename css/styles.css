@@ -22,8 +22,6 @@ a{text-decoration: none;}
 
 .header-logo{
 font-family: "Raleway", sans-serif;
- width: 115px;
- height: 24px;
  font-weight: 700;
  font-size: 18px;
  line-height: 117%;
@@ -70,7 +68,7 @@ color: #434455;
 
 
 
-/*---Секція з кнопкою---*/
+/*--1-Секція з кнопкою---*/
 
 .button {
     background-color: #2E2F42;
@@ -80,13 +78,16 @@ font-family: inherit;
 .button-title {
 font-weight: 500;
 font-size: 56px;
-line-height: 1,5;
-letter-spacing: 0.04em;
+letter-spacing: 0.02em;
 text-align: center;
+line-height: 1.07;
 color: #FFFFFF;}
 
 .button-click {
-background-color: #404BBF;
+background-color: #4D5AE5;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em;
 border-radius: 4px;
 padding: 16px 32px;
 width: 169px;
