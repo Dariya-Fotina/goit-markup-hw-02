@@ -89,7 +89,7 @@ cursor: pointer;
 }
 
 .button-click:hover, 
-.button-click:focus {color: #FFFFFF;}
+.button-click:focus {background-color: #404BBF}
 
 /*---------- ----------*/
 
